@@ -3,7 +3,7 @@ Code for the re-detection framework proposed in the paper **Reliable Re-detectio
 
 The re-detection tracker is based on the Staple, and the deep re-detection tracker takes HCF as baseline. 
 
-For the re-detection tracker, just start Matlab and run the runTracker.m. To run the latter, deep re-detection tracker, you need download the VGG-19 and compile the Matconvnet first following the description in its README.  
+For the re-detection tracker, just start Matlab and run the **runTracker.m**. To run the latter, deep re-detection tracker, you need download the VGG-19 and compile the Matconvnet first following the description in its README.  
 
 This code includes a quite general framework for long-term tracking. You can easily incorporate your own DCF based trackers.
 
